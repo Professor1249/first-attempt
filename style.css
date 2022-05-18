@@ -1,0 +1,27 @@
+.image{
+    border-radius: 12px;
+    padding: 3rem;
+    width: 50%;
+    background-image: url(./images/img.jfif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 370px;
+    background-blend-mode: overlay;
+    background-color: #0000007d;
+}
+p{
+    color: white;
+}
+h1{
+    color: white;
+}
+span{
+    font-weight: bolder;
+    font-size: 33px;
+    font-family: sans-serif;
+}
+
+.text{
+    margin-top: 15rem;
+}
